@@ -9,7 +9,7 @@
 -   read stream data and save to Mongo DB
 -   some performance tuning for saving data to DB
 
-# working with Childprocess in NodeJS
+# Working with Childprocess in NodeJS
 
 > ./childprocess
 
